@@ -5,7 +5,7 @@ Welcome to the Book Store Web App repository! This project is built using the ME
 **Project Structure**
 
 **Frontend:**
-index.html: Main HTML file.
+index.html: Main HTML file.<br>
 package-lock.json & package.json: Dependency management files for frontend.
 postcss.config.js & tailwind.config.js & vite.config.js: Configuration files for Vite and Tailwind CSS.
 Public: Contains static assets like vite.svg.
