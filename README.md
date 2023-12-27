@@ -1,10 +1,10 @@
-##Book Store Web App (MERN Stack)
+**Book Store Web App (MERN Stack)**
 
 Welcome to the Book Store Web App repository! This project is built using the MERN stack (MongoDB, Express.js, React, Node.js) and provides a user-friendly interface to manage books.
 
-Project Structure
+**Project Structure**
 
-Frontend:
+**Frontend:**
 index.html: Main HTML file.
 package-lock.json & package.json: Dependency management files for frontend.
 postcss.config.js & tailwind.config.js & vite.config.js: Configuration files for Vite and Tailwind CSS.
@@ -22,7 +22,8 @@ DeleteBook.jsx: Page to delete a book.
 EditBook.jsx: Page to edit book details.
 Home.jsx: Landing page of the application.
 ShowBook.jsx: Page to view detailed book information.
-Backend:
+
+**Backend:**
 config.js: Configuration file for backend setup.
 index.js: Entry point for the backend server.
 package-lock.json & package.json: Dependency management files for backend.
@@ -42,10 +43,10 @@ Install dependencies using npm install.
 Start the backend server using npm start.
 Ensure MongoDB is running locally or update the database configuration in config.js if using a remote MongoDB instance.
 
-Contributing:
+**Contributing:**
 
 Feel free to contribute to this project by submitting issues or pull requests.
 
-Contact:
+**Contact:**
 
 For further questions or discussions, you can contact me @ArnavChoudhary.
